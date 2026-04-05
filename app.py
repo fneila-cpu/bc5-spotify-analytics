@@ -2,8 +2,9 @@
 # CABECERA
 # ============================================================
 # Alumno: Luis Fernando Neila Martínez
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# Alumno: Fernando Neila
+# URL Streamlit Cloud: https://bc5-spotify-analytics.streamlit.app
+# URL GitHub: https://github.com/fneila-cpu/bc5-spotify-analytics
 
 # ============================================================
 # IMPORTS
